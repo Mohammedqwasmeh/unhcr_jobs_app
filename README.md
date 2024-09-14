@@ -16,7 +16,7 @@ platforms. 🚀
      <img src="./job_details_screen.jpg" style="width: 20%;" alt="Job Details"/>
     <img src="./no_network.jpg" style="width: 20%;" alt="List Error"/>
     <img src="./empty_list.jpg" style="width: 20%;" alt="Empty List"/>
-    <img src="./app_icon.jpg" style="width: 20%; height: 50%" alt="Icon"/>
+<!--     <img src="./app_icon.jpg" style="width: 20%; height: 50%" alt="Icon"/> -->
 </div>
 
 ## Frontend
