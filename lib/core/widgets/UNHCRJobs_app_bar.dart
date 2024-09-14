@@ -1,6 +1,7 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:unhcr_jobs_app/core/constant/constants.dart';
 
 class UNHCRJobsAppBar extends StatefulWidget implements PreferredSizeWidget {
@@ -94,6 +95,10 @@ class _UNHCRJobsAppBarState extends State<UNHCRJobsAppBar>
       titleSpacing: 0,
       centerTitle: widget.showBackButton,
       automaticallyImplyLeading: false,
+      systemOverlayStyle: const SystemUiOverlayStyle(
+        statusBarIconBrightness: Brightness.dark,
+        statusBarBrightness: Brightness.light,
+      ),
       title: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 18),
         child: AnimatedBuilder(
