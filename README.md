@@ -6,8 +6,8 @@ platforms. 🚀
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="./app_splash_screen.JPG" style="width: 20%;" alt="Splash Screen"/>
-    <img src="./app_loading.JPG" style="width: 20%;" alt="List Loading"/>
+    <img src="./app_splash_screen.jpg" style="width: 20%;" alt="Splash Screen"/>
+    <img src="./app_loading.jpg" style="width: 20%;" alt="List Loading"/>
     <img src="./app_home_screen.jpg" style="width: 20%;" alt="Home Screen"/>
     <img src="./home_search.jpg" style="width: 20%;" alt="Search List"/>
 </div>
